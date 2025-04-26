@@ -5,7 +5,7 @@
 
 ![Screenshot 2025-04-26 111851](https://github.com/user-attachments/assets/8f3374b4-e4ed-4e3f-8871-1e6ec2aef895)
 
-![Screenshot 2025-04-26 113128](https://github.com/user-attachments/assets/dc9c7ef7-06f2-48b1-b1b3-8f1ec4a95be5)
+![Screenshot 2025-04-26 113128](https://github.com/user-attachments/assets/29ebd718-4254-474e-ad53-0473bde88025)
 
 # Step 1: Clone the repository using the project's Git URL.
 git clone <YOUR_GIT_URL>
